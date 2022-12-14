@@ -1,2 +1,4 @@
 # DeepLearningModel
-A.I Deep learning model Test #1
+Humzah 8D Project
+Google Teachables is great way to create A.I Models without the hasle of typing hundereds of lines of code.
+<https://teachablemachine.withgoogle.com/>
